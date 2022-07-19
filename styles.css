@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    background: url(img.jpeg) no-repeat center center/ cover ;
+}
+
+.container{
+    width: 40%;
+}
+
+.title{
+    color: rgb(218, 218, 218);
+    width: 70%;
+    margin: 0 auto;
+    border: 2px solid white;
+    border-radius: 5%;
+    padding: 10px 20px;
+    background-color: rgb(29, 29, 29);
+    margin-bottom: 5px;
+    
+}
+
+.quoteContainer{
+    
+    border: 2px solid rgb(29, 29, 29);
+    background-color: rgb(218, 218, 218);
+    border-radius: 2%;
+    padding: 40px 30px;
+}
+
+.quote{
+    color: rgb(29, 29, 29);
+}
+
+.author{
+    font-size: 20px;
+    color: rgb(65, 22, 102);
+    margin: 30px auto;  
+}
+
+.btn{
+    color: rgb(218, 218, 218);
+    padding: 10px;
+    background-color: rgb(29, 29, 29);
+}
+
