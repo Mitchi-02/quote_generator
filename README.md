@@ -1,1 +1,1 @@
-# Static Quote Geneator
+# Static Quote Generator
